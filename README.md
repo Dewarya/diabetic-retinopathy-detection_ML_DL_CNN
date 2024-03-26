@@ -6,3 +6,4 @@ Diabetic retinopathy is a common complication of diabetes and a leading cause of
 We investigate a variety of deep learning architectures, including CNN, LSTM, and hybrid CNN-LSTM models. The final model architecture is made up of multiple convolutional layers, followed by LSTM layers for temporal feature extraction.
 
 ![Retina_image_example](https://github.com/Dewarya/diabetic-retinopathy-detection_ML_DL_CNN/assets/85952205/71191385-7da4-482e-a24e-66ce6c89c016)
+![download](https://github.com/Dewarya/diabetic-retinopathy-detection_ML_DL_CNN/assets/85952205/2ccbd98e-edec-4d92-8bcc-a99347400276)
